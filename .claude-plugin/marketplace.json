@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "claude-planning-plugin",
-      "source": ".",
+      "source": "./",
       "description": "Development workflow commands for planning, documentation, commits, and codebase exploration",
       "version": "1.0.0",
       "author": {
