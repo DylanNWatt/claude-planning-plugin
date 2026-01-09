@@ -5,14 +5,14 @@ A Claude Code plugin providing development workflow commands for planning, docum
 ## Installation
 
 ```bash
-/plugin install github:your-username/koan/plugin
+/plugin install github:DylanNWatt/claude-planning-plugin
 ```
 
 Or add to your project's `.claude/settings.json`:
 
 ```json
 {
-  "plugins": ["github:your-username/koan/plugin"]
+  "plugins": ["github:DylanNWatt/claude-planning-plugin"]
 }
 ```
 
