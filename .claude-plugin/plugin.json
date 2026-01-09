@@ -2,7 +2,9 @@
   "name": "koan-dev-workflow",
   "version": "1.0.0",
   "description": "Development workflow commands for planning, documentation, commits, and codebase exploration",
-  "author": "dylanwatt",
+  "author": {
+    "name": "Dylan Watt"
+  },
   "repository": "https://github.com/dylannwatt/claude-planning-plugin",
   "license": "MIT",
   "keywords": [
