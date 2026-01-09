@@ -1,13 +1,21 @@
 {
   "name": "claude-planning-plugin",
-  "version": "1.0.0",
-  "author": "dylanwatt",
+  "owner": {
+    "name": "Dylan Watt"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Development workflow commands for planning, documentation, commits, and codebase exploration"
+  },
   "plugins": [
     {
       "name": "claude-planning-plugin",
-      "version": "1.0.0",
+      "source": ".",
       "description": "Development workflow commands for planning, documentation, commits, and codebase exploration",
-      "path": "."
+      "version": "1.0.0",
+      "author": {
+        "name": "Dylan Watt"
+      }
     }
   ]
 }
